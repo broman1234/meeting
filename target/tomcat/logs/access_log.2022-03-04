@@ -1,0 +1,14 @@
+0:0:0:0:0:0:0:1 - - [04/Mar/2022:13:56:46 +0000] "GET / HTTP/1.1" 200 3088 http-bio-8080-exec-1 1624
+0:0:0:0:0:0:0:1 - - [04/Mar/2022:13:57:10 +0000] "POST /doLogin HTTP/1.1" 200 3130 http-bio-8080-exec-5 523
+0:0:0:0:0:0:0:1 - - [04/Mar/2022:13:57:53 +0000] "POST /doLogin HTTP/1.1" 302 - http-bio-8080-exec-7 15
+0:0:0:0:0:0:0:1 - - [04/Mar/2022:13:57:53 +0000] "GET /notifications HTTP/1.1" 200 6000 http-bio-8080-exec-9 166
+0:0:0:0:0:0:0:1 - - [04/Mar/2022:13:58:13 +0000] "GET /admin/searchemployees?status=1 HTTP/1.1" 200 7955 http-bio-8080-exec-2 138
+0:0:0:0:0:0:0:1 - - [04/Mar/2022:13:58:24 +0000] "GET /admin/searchemployees?employeeName=%E7%8E%8B%E6%99%93%E5%8D%8E&username=&status=1 HTTP/1.1" 200 5793 http-bio-8080-exec-4 16
+0:0:0:0:0:0:0:1 - - [04/Mar/2022:13:58:41 +0000] "GET /admin/searchemployees?employeeName=&username=&status=1 HTTP/1.1" 200 7955 http-bio-8080-exec-4 20
+0:0:0:0:0:0:0:1 - - [04/Mar/2022:13:58:46 +0000] "GET /admin/searchemployees?employeeName=&username=wangxh&status=1 HTTP/1.1" 200 6083 http-bio-8080-exec-4 10
+0:0:0:0:0:0:0:1 - - [04/Mar/2022:14:07:28 +0000] "GET /admin/searchemployees?employeeName=&username=&status=1 HTTP/1.1" 200 7955 http-bio-8080-exec-8 201
+0:0:0:0:0:0:0:1 - - [04/Mar/2022:14:07:34 +0000] "GET /admin/searchemployees?employeeName=&username=&status=2 HTTP/1.1" 200 7614 http-bio-8080-exec-1 12
+0:0:0:0:0:0:0:1 - - [04/Mar/2022:14:07:36 +0000] "GET /admin/searchemployees?employeeName=&username=&status=0 HTTP/1.1" 200 5738 http-bio-8080-exec-1 14
+0:0:0:0:0:0:0:1 - - [04/Mar/2022:14:07:39 +0000] "GET /admin/searchemployees?employeeName=&username=&status=2 HTTP/1.1" 200 7614 http-bio-8080-exec-1 13
+0:0:0:0:0:0:0:1 - - [04/Mar/2022:14:07:52 +0000] "GET /admin/searchemployees?employeeName=&username=&status=1 HTTP/1.1" 200 7955 http-bio-8080-exec-4 12
+0:0:0:0:0:0:0:1 - - [04/Mar/2022:14:08:18 +0000] "GET /admin/searchemployees?employeeName=&username=&status=2 HTTP/1.1" 200 7614 http-bio-8080-exec-8 18

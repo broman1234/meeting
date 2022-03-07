@@ -1,0 +1,17 @@
+0:0:0:0:0:0:0:1 - - [28/Feb/2022:09:46:18 +0000] "GET / HTTP/1.1" 200 3088 http-bio-8080-exec-2 1499
+0:0:0:0:0:0:0:1 - - [28/Feb/2022:09:46:18 +0000] "GET /styles/common.css HTTP/1.1" 200 2864 http-bio-8080-exec-3 144
+0:0:0:0:0:0:0:1 - - [28/Feb/2022:09:46:18 +0000] "GET /images/header.png HTTP/1.1" 200 50727 http-bio-8080-exec-4 13
+0:0:0:0:0:0:0:1 - - [28/Feb/2022:09:46:18 +0000] "GET /images/footer.png HTTP/1.1" 200 47559 http-bio-8080-exec-5 18
+0:0:0:0:0:0:0:1 - - [28/Feb/2022:09:47:45 +0000] "POST /doLogin HTTP/1.1" 500 6442 http-bio-8080-exec-9 118
+0:0:0:0:0:0:0:1 - - [28/Feb/2022:09:48:14 +0000] "POST /doLogin HTTP/1.1" 500 6442 http-bio-8080-exec-2 10
+0:0:0:0:0:0:0:1 - - [28/Feb/2022:09:48:31 +0000] "POST /doLogin HTTP/1.1" 500 6442 http-bio-8080-exec-3 10
+0:0:0:0:0:0:0:1 - - [28/Feb/2022:10:04:10 +0000] "GET / HTTP/1.1" 200 3088 http-bio-8080-exec-3 1773
+0:0:0:0:0:0:0:1 - - [28/Feb/2022:10:04:19 +0000] "POST /doLogin HTTP/1.1" 200 3130 http-bio-8080-exec-7 502
+0:0:0:0:0:0:0:1 - - [28/Feb/2022:10:04:47 +0000] "POST /doLogin HTTP/1.1" 302 - http-bio-8080-exec-10 11
+0:0:0:0:0:0:0:1 - - [28/Feb/2022:10:04:48 +0000] "GET /notifications HTTP/1.1" 200 6000 http-bio-8080-exec-10 237
+0:0:0:0:0:0:0:1 - - [28/Feb/2022:10:07:00 +0000] "GET /notifications HTTP/1.1" 200 6000 http-bio-8080-exec-4 202
+0:0:0:0:0:0:0:1 - - [28/Feb/2022:10:07:03 +0000] "GET /notifications HTTP/1.1" 200 6000 http-bio-8080-exec-4 24
+0:0:0:0:0:0:0:1 - - [28/Feb/2022:10:07:05 +0000] "GET /register HTTP/1.1" 200 5919 http-bio-8080-exec-4 41
+0:0:0:0:0:0:0:1 - - [28/Feb/2022:10:07:06 +0000] "GET /admin/departments HTTP/1.1" 200 7364 http-bio-8080-exec-4 18
+0:0:0:0:0:0:0:1 - - [28/Feb/2022:10:07:15 +0000] "GET /admin/searchemployees?status=1 HTTP/1.1" 200 8319 http-bio-8080-exec-1 97
+0:0:0:0:0:0:0:1 - - [28/Feb/2022:10:07:19 +0000] "GET /admin/addmeetingroom HTTP/1.1" 200 4598 http-bio-8080-exec-5 7
